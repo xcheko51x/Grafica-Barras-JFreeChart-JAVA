@@ -9,3 +9,7 @@ Dentro del proyecto hay que importar las librerias
 ubicadas dentro del .zip
 
 Descomprimir el zip y buscarlas en la carpeta <b>/lib</b>
+
+Pagina de la libreria:
+
+<b>http://www.jfree.org/jfreechart/</b>
